@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorOutdoor">#61c7ef</color>
+    <color name="colorIndoor">#d9880f</color>
+    <color name="colorAirQuality">#57ba58</color>
+    <color name="colorTextLarge">#ffffff</color>
+    <color name="colorTextSmall">#FFFFFF</color>
+    <color name="colorTextGray">#CCCCCC</color>
+    <color name="bgBottomNavigation">#673AB7</color>
+</resources>

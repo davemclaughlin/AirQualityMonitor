@@ -1,0 +1,17 @@
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- These settings headers are only used on tablets. -->
+
+    <header
+        android:fragment="com.axon.ax9100dg5000.SerialSettingsActivity$Device1Fragment"
+        android:title="VSD Modbus (RS485)" />
+
+    <header
+        android:fragment="com.axon.ax9100dg5000.SerialSettingsActivity$Device2Fragment"
+        android:title="Digital Gauge (RS232)" />
+
+    <header
+        android:fragment="com.axon.ax9100dg5000.SerialSettingsActivity$Device3Fragment"
+        android:title="Modbus Slave (RS232)" />
+
+</preference-headers>

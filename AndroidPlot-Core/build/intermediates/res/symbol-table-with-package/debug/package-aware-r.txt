@@ -1,0 +1,13 @@
+com.androidplot
+attr domainLabel
+attr domainLabelTextSize
+attr graphMarginBottom
+attr graphMarginLeft
+attr graphMarginRight
+attr graphMarginTop
+attr plotLabel
+attr plotLabelTextSize
+attr rangeLabel
+attr rangeLabelTextSize
+styleable Plot plotLabel plotLabelTextSize
+styleable xy_XYPlot domainLabel domainLabelTextSize graphMarginBottom graphMarginLeft graphMarginRight graphMarginTop rangeLabel rangeLabelTextSize

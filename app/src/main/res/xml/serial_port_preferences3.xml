@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android" android:title="MB Slave Serial port setup">
+    <ListPreference
+        android:entries="@array/baudrates_name"
+        android:entryValues="@array/baudrates_value"
+        android:key="BAUDRATE3"
+        android:persistent="true"
+        android:defaultValue="19200"
+        android:title="Baudrate">
+    </ListPreference>
+    <ListPreference
+        android:entries="@array/databits_name"
+        android:entryValues="@array/databits_value"
+        android:key="DATABITS3"
+        android:persistent="true"
+        android:defaultValue="8"
+        android:title="Data Bits">
+    </ListPreference>
+    <ListPreference
+        android:entries="@array/parity_name"
+        android:entryValues="@array/parity_value"
+        android:key="PARITY3"
+        android:persistent="true"
+        android:defaultValue="0"
+        android:title="Parity">
+    </ListPreference>
+    <ListPreference
+        android:entries="@array/stopbits_name"
+        android:entryValues="@array/stopbits_value"
+        android:key="STOPBITS3"
+        android:persistent="true"
+        android:defaultValue="0"
+        android:title="Stop Bits">
+    </ListPreference>
+
+    <EditTextPreference
+        android:defaultValue="Default value"
+        android:inputType="number"
+        android:key="MBSLAVEID"
+        android:selectAllOnFocus="true"
+        android:singleLine="true"
+        android:title="Modbus SLAVE ID" />
+
+</PreferenceScreen>

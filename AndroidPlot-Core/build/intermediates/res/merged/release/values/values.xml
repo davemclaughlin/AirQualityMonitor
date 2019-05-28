@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Plot">
+        <attr format="string" name="plotLabel"/>
+        <attr format="dimension" name="plotLabelTextSize"/>
+    </declare-styleable>
+    <declare-styleable name="xy.XYPlot" parent="@style/Plot">
+        <attr format="string" name="domainLabel"/>
+        <attr format="dimension" name="domainLabelTextSize"/>
+        <attr format="string" name="rangeLabel"/>
+        <attr format="dimension" name="rangeLabelTextSize"/>
+        <attr format="dimension" name="graphMarginTop"/>
+        <attr format="dimension" name="graphMarginBottom"/>
+        <attr format="dimension" name="graphMarginLeft"/>
+        <attr format="dimension" name="graphMarginRight"/>
+    </declare-styleable>
+</resources>

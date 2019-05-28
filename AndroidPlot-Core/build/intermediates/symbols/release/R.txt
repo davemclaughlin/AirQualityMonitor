@@ -1,0 +1,22 @@
+int attr domainLabel 0x7f040001
+int attr domainLabelTextSize 0x7f040002
+int attr graphMarginBottom 0x7f040003
+int attr graphMarginLeft 0x7f040004
+int attr graphMarginRight 0x7f040005
+int attr graphMarginTop 0x7f040006
+int attr plotLabel 0x7f040007
+int attr plotLabelTextSize 0x7f040008
+int attr rangeLabel 0x7f040009
+int attr rangeLabelTextSize 0x7f04000a
+int[] styleable Plot { 0x7f040007, 0x7f040008 }
+int styleable Plot_plotLabel 0
+int styleable Plot_plotLabelTextSize 1
+int[] styleable xy_XYPlot { 0x7f040001, 0x7f040002, 0x7f040003, 0x7f040004, 0x7f040005, 0x7f040006, 0x7f040009, 0x7f04000a }
+int styleable xy_XYPlot_domainLabel 0
+int styleable xy_XYPlot_domainLabelTextSize 1
+int styleable xy_XYPlot_graphMarginBottom 2
+int styleable xy_XYPlot_graphMarginLeft 3
+int styleable xy_XYPlot_graphMarginRight 4
+int styleable xy_XYPlot_graphMarginTop 5
+int styleable xy_XYPlot_rangeLabel 6
+int styleable xy_XYPlot_rangeLabelTextSize 7

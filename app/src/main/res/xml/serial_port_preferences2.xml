@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android" android:title="Serial port setup">
+    <ListPreference
+        android:entries="@array/baudrates_name"
+        android:entryValues="@array/baudrates_value"
+        android:key="BAUDRATE2"
+        android:persistent="true"
+        android:defaultValue="19200"
+        android:title="Baudrate">
+    </ListPreference>
+    <ListPreference
+        android:entries="@array/databits_name"
+        android:entryValues="@array/databits_value"
+        android:key="DATABITS2"
+        android:persistent="true"
+        android:defaultValue="8"
+        android:title="Data Bits">
+    </ListPreference>
+    <ListPreference
+        android:entries="@array/parity_name"
+        android:entryValues="@array/parity_value"
+        android:key="PARITY2"
+        android:persistent="true"
+        android:defaultValue="0"
+        android:title="Parity">
+    </ListPreference>
+    <ListPreference
+        android:entries="@array/stopbits_name"
+        android:entryValues="@array/stopbits_value"
+        android:key="STOPBITS2"
+        android:persistent="true"
+        android:defaultValue="0"
+        android:title="Stop Bits">
+    </ListPreference>
+
+</PreferenceScreen>

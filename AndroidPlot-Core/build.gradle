@@ -1,0 +1,31 @@
+apply plugin: 'com.android.library'
+android {
+    compileSdkVersion 23
+    buildToolsVersion '28.0.3'
+    sourceSets {
+        main {
+            manifest.srcFile 'AndroidManifest.xml'
+            java.srcDirs = ['src/main/java/']
+            resources.srcDirs = ['src']
+            aidl.srcDirs = ['src']
+            renderscript.srcDirs = ['src']
+            res.srcDirs = ['res']
+            /*assets.srcDirs = ['assets']*/
+        }
+    }
+    /**
+     * TODO: uncomment this and address all the lint issues.
+     */
+    lintOptions {
+        abortOnError false
+    }
+    defaultConfig {}
+    productFlavors {
+    }
+    buildTypes {
+    }
+}
+
+dependencies {
+    androidTestImplementation 'junit:junit:4.12'
+}

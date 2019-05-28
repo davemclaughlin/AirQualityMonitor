@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_air_quality"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_graphs"
+        android:icon="@drawable/ic_graphs"
+        android:title="@string/title_graphs" />
+
+    <item
+        android:id="@+id/navigation_weather"
+        android:icon="@drawable/ic_weather"
+        android:title="@string/title_notifications" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/title_settings" />
+
+</menu>

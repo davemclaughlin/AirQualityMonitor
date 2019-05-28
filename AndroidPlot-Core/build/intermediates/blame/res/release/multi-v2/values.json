@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Tools\\Android\\AndroidStudioProjects\\AirQualityMonitor\\AndroidPlot-Core\\build\\intermediates\\res\\merged\\release\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Tools\\Android\\AndroidStudioProjects\\AirQualityMonitor\\AndroidPlot-Core\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "18,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "699,870",
+                        "endLines": "21,32",
+                        "endColumns": "24,24",
+                        "endOffsets": "864,1410"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,225",
+                        "endLines": "5,15",
+                        "endColumns": "24,24",
+                        "endOffsets": "220,765"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Tools\\Android\\AndroidStudioProjects\\AirQualityMonitor\\AndroidPlot-Core\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Tools\\Android\\AndroidStudioProjects\\AirQualityMonitor\\AndroidPlot-Core\\res\\values\\attrs.xml",
+                    "from": {
+                        "startLines": "18,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "699,870",
+                        "endLines": "21,32",
+                        "endColumns": "24,24",
+                        "endOffsets": "864,1410"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,225",
+                        "endLines": "5,15",
+                        "endColumns": "24,24",
+                        "endOffsets": "220,765"
+                    }
+                }
+            ]
+        }
+    ]
+}

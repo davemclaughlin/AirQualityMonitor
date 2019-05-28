@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml:1:1-4:33
+INJECTED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml:1:1-4:33
+INJECTED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml:1:1-4:33
+INJECTED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml:1:1-4:33
+INJECTED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml:1:1-4:33
+INJECTED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml:1:1-4:33
+INJECTED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml:1:1-4:33
+	package
+		ADDED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml:2:5-30
+		INJECTED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml
+		INJECTED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml:4:5-30
+		INJECTED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml
+		INJECTED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml
+		INJECTED from C:\Tools\Android\AndroidStudioProjects\AirQualityMonitor\AndroidPlot-Core\AndroidManifest.xml
