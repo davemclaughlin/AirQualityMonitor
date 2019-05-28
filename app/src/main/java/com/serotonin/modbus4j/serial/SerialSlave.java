@@ -20,7 +20,7 @@
  */
 package com.serotonin.modbus4j.serial;
 
-import com.axoninstruments.gpio.SerialPort;
+import com.gpioserial.gpio.SerialPort;
 import com.serotonin.io.serial.SerialParameters;
 import com.serotonin.messaging.StreamTransport;
 import com.serotonin.modbus4j.ModbusSlaveSet;

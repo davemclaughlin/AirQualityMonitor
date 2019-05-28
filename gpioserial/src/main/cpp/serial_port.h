@@ -13,7 +13,7 @@ extern "C" {
  * Signature: (Ljava/lang/String;II)Ljava/io/FileDescriptor;
  */
 JNIEXPORT jobject JNICALL Java_com_gpioserial_gpio_SerialPort_open
-  (JNIEnv *env, jstring, jint, jint, jint, jint, jint);
+  (JNIEnv *env, jobject, jstring, jint, jint, jint, jint, jint);
 
 /*
  * Class:     android_serialport_api_SerialPort

@@ -31,6 +31,5 @@ android {
 }
 
 dependencies {
-    implementation files('src/main/libs/seroUtils.jar')
-    implementation files('src/main/libs/additionnal.jar')
+//    implementation files('src/main/libs/seroUtils.jar')
 }

@@ -2,7 +2,7 @@ package com.axoninstruments.airqualitymonitor;
 
 import android.content.Context;
 
-import com.axoninstruments.gpio.SerialPort;
+import com.gpioserial.gpio.SerialPort;
 import com.serotonin.io.serial.SerialParameters;
 import com.serotonin.messaging.StreamTransport;
 
